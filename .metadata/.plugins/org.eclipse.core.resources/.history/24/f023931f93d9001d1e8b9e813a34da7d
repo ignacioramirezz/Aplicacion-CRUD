@@ -1,0 +1,5 @@
+package com.example.empleado.repositorio;
+
+public interface EmpleadoRepositorio extends JpaRespository<Empleado,Long>{
+
+}
